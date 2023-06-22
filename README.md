@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página inspirada no Site da Space-X. Contendo 3 páginas a Home, Falcon-9 e a Human Space Flight
 
--  [Visite o projeto online](https://iaguin11.github.io/nlw-setup/)
+
 
 
 ---
